@@ -15,7 +15,7 @@ public class Province extends LitePalSupport {
         this.id = id;
     }
 
-    public String getProvinceName(String name) {
+    public String getProvinceName() {
         return provinceName;
     }
 

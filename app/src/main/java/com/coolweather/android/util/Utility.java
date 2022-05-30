@@ -22,7 +22,7 @@ public class Utility {
                     JSONObject provinceObject = allProvince.getJSONObject(i);
                     Province province = new Province();
                     province.setProvinceCode(provinceObject.getInt("id"));
-                    province.getProvinceName(provinceObject.getString("name"));
+                    province.setProvinceName(provinceObject.getString("name"));
                     province.save();
                 }
                 return true;
