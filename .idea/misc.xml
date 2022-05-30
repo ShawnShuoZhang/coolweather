@@ -7,7 +7,10 @@
         <entry key="..\:/Users/zs/AndroidStudioProjects/CoolWeather/app/src/main/res/drawable/ic_back_foreground.xml" value="0.179" />
         <entry key="..\:/Users/zs/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/activity_main.xml" value="0.1452152110321772" />
         <entry key="..\:/Users/zs/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/choose_area.xml" value="0.33" />
+        <entry key="..\:/Users/zs/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/forecast.xml" value="0.29628046173578454" />
         <entry key="..\:/Users/zs/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/fragment_choose_area.xml" value="0.29713552800342025" />
+        <entry key="..\:/Users/zs/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/now.xml" value="0.29628046173578454" />
+        <entry key="..\:/Users/zs/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/title.xml" value="0.33" />
         <entry key="..\:/android/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.13936481404095277" />
       </map>
     </option>
